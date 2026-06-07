@@ -25,11 +25,7 @@ image: ./images/firefly2.avif
 
 ::github{repo="CuteLeaf/Firefly"}
 
-::github{repo="saicaca/fuwari"}![](F:\Baitao\src\assets\images\quan.jpg)
-
-
-
-## 🚀 技术架构
+::github{repo="saicaca/fuwari"}## 🚀 技术架构
 
 - **静态站点生成**: 基于 Astro ，提供极快的加载速度和优秀的 SEO 优化
 - **TypeScript 支持**: 完整的类型安全，提升开发体验和代码质量
