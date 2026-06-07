@@ -11,4 +11,4 @@ image: ./images/baitao.avif
 
 ---
 
-测试
+测试![](F:\Baitao\src\content\posts\images\baitao.jpg)
