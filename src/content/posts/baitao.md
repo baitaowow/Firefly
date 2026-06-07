@@ -6,9 +6,11 @@ description: 测试
 tags: [测试, 测试, 测试, 测试]
 category: 文章
 draft: false
-image: ./images/firefly2.avif
+image: F:\Baitao\src\assets\images\1780681885098.jpg
 ---
 
 ---
 
 测试
+
+
