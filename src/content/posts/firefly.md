@@ -25,9 +25,9 @@ image: ./images/firefly2.avif
 
 ::github{repo="CuteLeaf/Firefly"}
 
-::github{repo="saicaca/fuwari"}
+::github{repo="saicaca/fuwari"}![](F:\Baitao\src\assets\images\quan.jpg)
 
-![Firefly](./images/1.avif)
+
 
 ## 🚀 技术架构
 
