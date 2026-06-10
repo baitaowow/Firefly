@@ -13,6 +13,4 @@ image: ./images/baitao.png
 
 测试
 
-@
-
-
+![](F:\Baitao\src\content\posts\images\baitao.png)
